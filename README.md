@@ -12,6 +12,8 @@ def who_am_i(George):
                         and elegant solutions 
                         to complex problems"
 ```
+
+### ⚡ I am currently looking for a position ⚡
 <br>
 <center>
 
