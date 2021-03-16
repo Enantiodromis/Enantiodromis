@@ -14,7 +14,9 @@ def who_am_i(George):
 ```
 <br>
 <center>
+
 ![](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+
 </center>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
