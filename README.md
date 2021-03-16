@@ -13,9 +13,8 @@ def who_am_i(George):
                         to complex problems"
 ```
 <br>
-
 <center>
-<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx"></a></p>
+![]([giphy.gif](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 </center>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
