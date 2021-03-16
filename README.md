@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Enantiodromis/Enantiodromis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi I am George! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  check out my [site!](https://enantiodromis.github.io/) 🖱️<br>
+```python:
+def who_am_i(George):
+    name = George
+    height_cm = 200
+    height_ft = 6.6
+    location = earth
+    very_curious = True
+    passionate_about = "Keeping fit 
+                        and finding simple 
+                        and elegant solutions 
+                        to complex problems"
+```
+<br>
 
-Here are some ideas to get you started:
+<center>
+<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx"></a></p>
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
+
+- ### ⏰ I’m currently working on completing my MSc Artificial Intelligence
+- ### 🧠 I’m currently learning a range of AI techniques / XAi and Python 🐍
+- ### 👯 I’m looking to collaborate on interesting data engineer / AI / XAi projects
+- ### 💬 Ask me about anything, I can try and help!
+- ### 💻 If you want to reach out, my details are on my site! 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enantiodromis&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enantiodromis&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
