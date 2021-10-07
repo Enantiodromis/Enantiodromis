@@ -13,7 +13,7 @@ def who_am_i(George):
                         to complex problems"
 ```
 
-### ⚡ I am currently looking for a position ⚡
+### ⚡ PhD student at City University's Research Centre for Biomedical Engineering ⚡
 <br>
 <center>
 
@@ -23,9 +23,9 @@ def who_am_i(George):
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
 
-- ### ⏰ I’m currently working as a PhD student at City University's Research Centre for Biomedical Engineering
-- ### 🧠 I’m currently focusing on Signal data analysis / XAi and Python 🐍
-- ### 👯 I’m looking to collaborate on interesting AI & Healthcare / AI / XAi projects
+- ### ⏰ I’m a PhD student at City University's Research Centre for Biomedical Engineering
+- ### 🧠 Currently focusing on Signal data analysis / XAi and Python 🐍
+- ### 👯 Looking to collaborate on interesting AI & Healthcare / AI / XAi projects
 - ### 💬 Ask me about anything, I can try and help!
 - ### 💻 If you want to reach out, my details are on my site! 
 <br>
