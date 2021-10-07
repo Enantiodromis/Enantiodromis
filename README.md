@@ -23,9 +23,9 @@ def who_am_i(George):
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
 
-- ### ⏰ I’m currently working on completing my MSc Artificial Intelligence
-- ### 🧠 I’m currently learning a range of AI techniques / XAi and Python 🐍
-- ### 👯 I’m looking to collaborate on interesting data engineer / AI / XAi projects
+- ### ⏰ I’m currently working as a PhD student at City University's Research Centre for Biomedical Engineering
+- ### 🧠 I’m currently focusing on Signal data analysis / XAi and Python 🐍
+- ### 👯 I’m looking to collaborate on interesting AI & Healthcare / AI / XAi projects
 - ### 💬 Ask me about anything, I can try and help!
 - ### 💻 If you want to reach out, my details are on my site! 
 <br>
