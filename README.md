@@ -1,5 +1,8 @@
 
 ## Hi I am George! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  check out my [site!](https://enantiodromis.github.io/) 🖱️<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
+
 ```python:
 def who_am_i(George):
     name = George
@@ -21,7 +24,6 @@ def who_am_i(George):
 
 </center>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
 
 - ### ⏰ I’m a PhD student at City University's Research Centre for Biomedical Engineering
 - ### 🧠 Currently focusing on Signal data analysis / XAi and Python 🐍
