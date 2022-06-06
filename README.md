@@ -1,5 +1,5 @@
 
-## Hi I am George! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  check out my [site!](https://enantiodromis.github.io/) 🖱️<br>
+## Hi I am George! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">  check out my [site!](https://enantiodromis.github.io/) 🖱️<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Enantiodromis)
 
