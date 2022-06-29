@@ -10,7 +10,7 @@ def who_am_i(George):
     height_ft = 6.6
     location = earth
     very_curious = True
-    passionate_about = "Keeping fit 
+    passionate_about = "Freediving, BJJ 
                         and finding simple 
                         and elegant solutions 
                         to complex problems"
