@@ -26,9 +26,8 @@ def who_am_i(George):
 
 
 - ### ⏰ I’m a PhD student at City University's Research Centre for Biomedical Engineering
-- ### 🧠 Currently focusing on Signal analysis / Machine Learning and Python 🐍
-- ### 👯 Looking to collaborate on interesting AI & Healthcare / AI / XAi projects
-- ### 💬 Ask me about anything, I can try and help!
+- ### 🧠 Currently focusing on Signal processing / Machine Learning and Python 🐍
+- ### 👯 Looking to collaborate on interesting AI & Healthcare projects
 - ### 💻 If you want to reach out, my details are on my site! 
 <br>
 
